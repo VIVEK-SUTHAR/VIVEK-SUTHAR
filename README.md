@@ -1,5 +1,5 @@
-### Hi there 👋
-### <h2>About Me</h2>
+<h1 align="center">Hello World 👋</h1>
+<h2>About Me</h2>
 
 
 <h3>My Self Vivek Suthar.</h3><br/>

@@ -14,7 +14,6 @@
 ### 📫 How to reach me: ...</br>
 &nbsp;Linked-In: linkedin.com/in/vivek-suthar-160152202<br/>
 &nbsp;Mail Me:sutharvivek18@gmail.com<br/>
+Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/{VIVEK-SUTHAR}/count.svg)
-
-
 

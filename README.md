@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Suthar</h1>
-<h3 align="center">A passionate Developer, IT Student CP Enthusiast And keen Learner From India</h3>
+<h3 align="center">A passionate Developer, IT Student, CP Enthusiast And Keen Learner From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-suthar&label=Profile%20views&color=6bdaff&style=plastic" alt="vivek-suthar" /> </p>
 

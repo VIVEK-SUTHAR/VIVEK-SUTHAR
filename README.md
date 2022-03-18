@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-suthar" alt="vivek-suthar" /></a> </p>
 
-- 🔭 I’m currently working on [macOS Clone](https://vivek-suthar.github.io/macOS-clone/)
+- 🔭 I’m currently working on [macOS Clone](https://vivek-suthar.github.io/macOS-Clone/)
 
 - 🌱 I’m currently learning **NextJS And Android Development**
 

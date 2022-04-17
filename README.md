@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS And Android Development**
 
-- 👨‍💻 All of my projects are available at [https://vivek-suthar-portfolio.netlify.app/](https://viveksuthar.me/)
+- 👨‍💻 All of my projects are available at [https://vivek-suthar.me](https://viveksuthar.me/)
 
 - 💬 Ask me about **C,C++**
 

@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-suthar&show_icons=true&theme=dark&cache_seconds=1200&locale=en" alt="vivek-suthar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-suthar&theme=dark" alt="vivek-suthar" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-suthar&theme=monokai"  display=block width=100% height=auto  alt="1" ></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=vivek-suthar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></p>

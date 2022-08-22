@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-suthar&theme=discord" alt="vivek-suthar" /></a> </p>
 <p align="left"> <a href="https://twitter.com/theviveksuthar" target="blank"><img src="https://img.shields.io/twitter/follow/theviveksuthar?logo=twitter&style=for-the-badge" alt="theviveksuthar" /></a> </p>
 
-- 🔭 I’m currently working on [macOS Clone](https://vivek-suthar.github.io/macOS-Clone/)
+- 🔭 I’m currently working on [DeBlog](https://deblog.netlify.app/)
 
-- 🌱 I’m currently learning **NextJS And Android Development**
+- 🌱 I’m currently learning **Block-chain and Web3.0**
 
 - 👨‍💻 All of my projects are available at [https://vivek-suthar.me](https://viveksuthar.me/)
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **ReactJS,NextJS,CSS,**
 
 - 📫 How to reach me **sutharvivek18@gmail.com**
 

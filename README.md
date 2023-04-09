@@ -7,13 +7,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-suthar&theme=discord" alt="vivek-suthar" /></a> </p>
 <p align="left"> <a href="https://twitter.com/theviveksuthar" target="blank"><img src="https://img.shields.io/twitter/follow/theviveksuthar?logo=twitter&style=for-the-badge" alt="theviveksuthar" /></a> </p>
 
-- 🔭 I’m currently working on [DeBlog](https://deblog.netlify.app/)
+- 🔭 I’m currently working on [LensPlay](https://lensplay.xyz/)
 
-- 🌱 I’m currently learning **Block-chain and Web3.0**
+- 🌱 I’m currently learning **Advance Solidity and React Native**
 
-- 👨‍💻 All of my projects are available at [https://vivek-suthar.me](https://viveksuthar.me/)
+- 👨‍💻 All of my projects are available at [https://devvivek.tech](https://devvivek.tech)
 
-- 💬 Ask me about **ReactJS,NextJS,CSS,**
+- 💬 Ask me about **React-Native,NextJS,Block-Chain**
+
+- ✍ I write at [https://blog.devvivek.tech](https://blog.devvivek.tech)
 
 - 📫 How to reach me **sutharvivek18@gmail.com**
 
